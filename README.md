@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=E7AFD5&height=300&text=Juhye's%20Github&desc=Welcome!&fontColor=FFFFFF&fontAlignY=40&descSize=25&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=E7AFD5&height=250&text=Juhye's%20Github&desc=Welcome!&fontColor=FFFFFF&fontAlignY=35&fontSize=60&descSize=20&descAlign=70&descAlignY=55)
 
 #### 📧Email📧  
 yoyoung675<span>@</span>gmail.com
